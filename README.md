@@ -15,7 +15,7 @@ This repository is where you will get all the resources for all of ChanR's Rains
 
 ### Technical Entrepreneurship in 2020
 
-- [Interactive Slide Deck](Link will be made available)
+- [Interactive Slide Deck](https://slides.com/rchatterjee/technical-entrepreneurship-in-2020)
 - [ChanR 4 Entrepreneurs Incubator Program Application Form](Link will be made available)
 - [ChanR Product Manager Application Form](Link will be made available)
 
