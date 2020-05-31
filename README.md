@@ -10,7 +10,9 @@ This repository is where you will get all the resources for all of ChanR's Rains
 ### Python for Data Science
 
 - [Intro Python Colab Notebook](https://colab.research.google.com/drive/1tju9OJ7wlWPicyktVD_7M-b-xLvbpjDc)
-- [Numpy and Pandas Colab Notebook](https://colab.research.google.com/drive/1eE2Z3WnipDjpC1MzB81HH8wvcca1zyHY)  
+- [Numpy and Pandas Colab Notebook](https://colab.research.google.com/drive/1eE2Z3WnipDjpC1MzB81HH8wvcca1zyHY)
+- [Spotify Data Collecton App](http://209.182.236.218:3950/)
+- [Spotify Artist Data Files](https://github.com/ChanR-Analytics/Rainstorm_Spotify_App/tree/master/data)  
 
 ### Technical Entrepreneurship in 2020
 
