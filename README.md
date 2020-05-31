@@ -9,15 +9,14 @@ This repository is where you will get all the resources for all of ChanR's Rains
 
 ### Python for Data Science
 
-- [Intro Python Colab Notebook](Link will be made available)
+- [Intro Python Colab Notebook](https://colab.research.google.com/drive/1tju9OJ7wlWPicyktVD_7M-b-xLvbpjDc)
 - [Numpy and Pandas Colab Notebook](https://colab.research.google.com/drive/1eE2Z3WnipDjpC1MzB81HH8wvcca1zyHY)  
-- Premium Notebooks Resource Page (Link to get premium Colab training in Python for in-depth exercises and examples. Coming soon.)
 
 ### Technical Entrepreneurship in 2020
 
 - [Interactive Slide Deck](https://slides.com/rchatterjee/technical-entrepreneurship-in-2020)
-- [ChanR 4 Entrepreneurs Incubator Program Application Form](Link will be made available)
-- [ChanR Product Manager Application Form](Link will be made available)
+- [ChanR 4 Entrepreneurs Incubator Program Application Form](https://forms.gle/aYiiSmHv7awFYn9N7)
+- [ChanR Product Manager Application Form](https://forms.gle/t9j2U2jx1eVAyXif7)
 
 ## Opportunities to Work with ChanR
 
@@ -36,16 +35,16 @@ ChanR is setting up a summer program where you get to learn Software Engineering
 
 If you're interested in being a part of this program, fill out the application form below and feel free to connect with us on our [Discord](https://discord.gg/BurGp7e) server.
 
-- [Application Form](Link will be made available)
+- [Application Form](https://forms.gle/fWmTztBjs9jDQDQY9)
 
 ### ChanR 4 Entrepreneurs Incubator Program
 
 ChanR is also looking for 3 entrepreneurs who would like their own ideas become realities by working with us and our team. We’ll accelerate the ideas and business dynamics to become an active, full-fledged business. If you’re interested in this opportunity, fill out the application form below and feel free to connect with us on our [Discord](https://discord.gg/BurGp7e) server.
 
-- [Application Form](Link will be made available)
+- [Application Form](https://forms.gle/aYiiSmHv7awFYn9N7)
 
 ### ChanR Associate Product Manager Internship Program
 
 ChanR is also looking for 5 product managers to spearhead different products and initiatives within ChanR. This is a unique internship opportunity where you’ll be able to manage a development team and make your ideas and input guide the future of our products. You’ll also get to learn about Design-Driven Data Science in-depth, present to potential clients and propagate best practices across multiple disciplines. If you’re interested in this opportunity, fill out the application form below and feel free to connect with us on our [Discord](https://discord.gg/BurGp7e) server.   
 
-- [Application Form](Link will be made available)
+- [Application Form](https://forms.gle/t9j2U2jx1eVAyXif7)
