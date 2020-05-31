@@ -5,18 +5,18 @@ This repository is where you will get all the resources for all of ChanR's Rains
 ### Design-Driven Data Science
 
 - [Class Slide Deck](https://docs.google.com/presentation/d/1cW0woLwUKUOrxGzPbCrQ9d0-rGJ1YY3biRkt45wVfw8/edit?usp=sharing)
-- Geospatial Web App (Link will be made available when student who forked repository removes forked version from GitHub)
 - Repository (You must join the Discord and give us your GitHub username to be granted access to view)
 
 ### Python for Data Science
 
-- [Intro Python Colab Notebook](Link will be made available) 
+- [Intro Python Colab Notebook](Link will be made available)
 - [Numpy and Pandas Colab Notebook](https://colab.research.google.com/drive/1eE2Z3WnipDjpC1MzB81HH8wvcca1zyHY)  
 - Premium Notebooks Resource Page (Link to get premium Colab training in Python for in-depth exercises and examples. Coming soon.)
 
 ### Technical Entrepreneurship in 2020
 
 - [Interactive Slide Deck](Link will be made available)
+- [ChanR 4 Entrepreneurs Incubator Program Application Form](Link will be made available)
 - [ChanR Product Manager Application Form](Link will be made available)
 
 ## Opportunities to Work with ChanR
